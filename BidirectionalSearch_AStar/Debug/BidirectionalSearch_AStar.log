@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\ai\hw2\bidirectionalsearch_astar\bidirectionalsearch_astar\main.cpp(164): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  BidirectionalSearch_AStar.vcxproj -> D:\AI\HW2\BidirectionalSearch_AStar\Debug\BidirectionalSearch_AStar.exe
+  BidirectionalSearch_AStar.vcxproj -> D:\AI\HW2\BidirectionalSearch_AStar\Debug\BidirectionalSearch_AStar.pdb (Full PDB)
